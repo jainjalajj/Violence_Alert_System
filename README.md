@@ -13,6 +13,21 @@ A deep learning-based violence detection system that processes videos to detect 
 - **Telegram Alerts**: Instantly sends a photo and location-based alert to a Telegram channel upon detecting violence.
 - **History Tracking**: Keeps a log of past detections with video summaries, confidence levels, and processed outputs.
 
+## Screenshots
+*(Note: High-resolution versions of these images can be found in the `assets/` directory).*
+
+### 1. Live Detection Dashboard
+![Live Detection Dashboard](assets/live_detection.png)
+
+### 2. Detection Results & Analytics
+![Detection Results](assets/results_analytics.png)
+
+### 3. Detection History
+![History](assets/history.png)
+
+### 4. Telegram Alert
+![Telegram Alert](assets/telegram_alert.png)
+
 ## Prerequisites
 - Python 3.8+
 - Node.js (for frontend)
